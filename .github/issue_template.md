@@ -8,7 +8,7 @@
 - Gse version (or commit ref):
 - Go version:
 - Operating system and bit:
-- Can you reproduce the bug at [Examples](https://github.com/go-ego/gse/tree/master/examples):
+- Can you reproduce the bug at [Examples](https://github.com/xqk/gse/tree/master/examples):
   - [ ] Yes (provide example code)
   - [ ] No
   - [ ] Not relevant

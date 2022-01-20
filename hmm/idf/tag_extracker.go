@@ -5,7 +5,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/go-ego/gse"
+	"github.com/xqk/gse"
 )
 
 // Segment type a word with weight.

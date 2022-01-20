@@ -17,7 +17,7 @@ package idf
 import (
 	"sort"
 
-	"github.com/go-ego/gse"
+	"github.com/xqk/gse"
 )
 
 // Idf type a dictionary for all words with the
@@ -42,7 +42,7 @@ func (i *Idf) AddToken(text string, freq float64, pos ...string) error {
 // LoadDict load the idf dictionary
 func (i *Idf) LoadDict(files ...string) error {
 	if len(files) <= 0 {
-		files = gse.GetIdfPath(files...)
+		files = i.seg.GetIdfPath(files...)
 	}
 
 	return i.seg.LoadDict(files...)

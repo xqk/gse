@@ -1,7 +1,7 @@
 package idf
 
 import (
-	"github.com/go-ego/gse"
+	"github.com/xqk/gse"
 )
 
 // StopWordMap the default stop words.

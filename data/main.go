@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/go-ego/gse"
+	"github.com/xqk/gse"
 )
 
 var (

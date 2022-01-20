@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/go-ego/gse"
+	"github.com/xqk/gse"
 )
 
 var (

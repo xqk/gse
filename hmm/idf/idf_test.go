@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/go-ego/gse"
 	"github.com/vcaesar/tt"
+	"github.com/xqk/gse"
 )
 
 var (

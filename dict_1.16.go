@@ -1,6 +1,6 @@
 // Copyright 2016 The go-ego Project Developers. See the COPYRIGHT
 // file at the top-level directory of this distribution and at
-// https://github.com/go-ego/gse/blob/master/LICENSE
+// https://github.com/xqk/gse/blob/master/LICENSE
 //
 // Licensed under the Apache License, Version 2.0 <LICENSE-APACHE or
 // http://www.apache.org/licenses/LICENSE-2.0> or the MIT license

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/go-ego/gse"
+	"github.com/xqk/gse"
 )
 
 func main() {
