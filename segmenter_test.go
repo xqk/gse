@@ -10,7 +10,7 @@ import (
 )
 
 var (
-	prodSeg = Segmenter{}
+	prodSeg = Segmenter{DataPath: "/Users/xqk/GolandProjects/dhome/api/search/etc/seg/data"}
 
 	testH = []byte("こんにちは世界")
 )

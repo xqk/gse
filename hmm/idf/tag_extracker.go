@@ -66,6 +66,7 @@ func (t *TagExtracter) LoadDict(fileName ...string) error {
 // LoadIdf load and create a new Idf dictionary from the file.
 func (t *TagExtracter) LoadIdf(fileName ...string) error {
 	t.Idf = NewIdf()
+	t.Idf.seg = t.seg
 	return t.Idf.LoadDict(fileName...)
 }
 

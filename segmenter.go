@@ -61,6 +61,10 @@ type jumper struct {
 	token       *Token
 }
 
+func (seg *Segmenter) SetDataPath(dataPath string) {
+	seg.DataPath = dataPath
+}
+
 // Segment 对文本分词
 //
 // 输入参数：
